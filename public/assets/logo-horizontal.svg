@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="160" viewBox="0 0 720 160">
+  <g transform="translate(8 8) scale(2.25)">
+    <path fill="#f97316" d="M32 4 38.4 17l14.4 2.1-10.4 10.1 2.5 14.3L32 36.7l-12.9 6.8 2.5-14.3-10.4-10.1L25.6 17 32 4Z"/>
+    <path fill="#0b1f33" d="M17 40h30v11H17zM22 31h7v20h-7zm14-7h7v27h-7z"/>
+  </g>
+  <text x="175" y="101" fill="#0b1f33" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="400" letter-spacing="-2">Star City <tspan fill="#f97316" font-weight="700">Sites</tspan></text>
+</svg>
