@@ -34,7 +34,6 @@ starcitysites/
 ├── functions/
 │   └── api/
 │       └── lead.js         Handles both website forms
-├── preview/                Rendered reference images
 ├── .dev.vars.example
 ├── wrangler.jsonc
 └── README.md
